@@ -4,6 +4,8 @@
  I'm an Electrical and Information Engineering Undergraduate at Faculty of Engineering, University of Ruhuna
  
 
+<br />
+<br />
 
 ### Connect with me:
 ---
@@ -11,13 +13,16 @@
 [<img align="left" alt="manoj-b-dissanayake_mail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"  />][gmail]
 [<img align="left" alt="manoj-b-dissanayake | LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40" />][linkedin]
 
-
+<br />
+<br />
 
 ### Stats
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManojBD)](https://github.com/manchiz/github-readme-stats)
 
+<br />
+<br />
 
 ### Mostly used languages
 ---
