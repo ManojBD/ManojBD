@@ -1,6 +1,6 @@
 ## Hi !, I'm Manoj Bandara Dissanayake 👋
 
-<!--
+
  I'm an Electrical and Information Engineering Undergraduate at Faculty of Engineering, University of Ruhuna
  
 <br />
