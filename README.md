@@ -16,6 +16,16 @@
   <img align="left" alt="manoj-b-dissanayake | LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40" />
 </a>
 
+### Stats
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manchiz)](https://github.com/manchiz/github-readme-stats)
+
+### Mostly used languages
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manchiz)](https://github.com/manchiz/github-readme-stats)
+
 <!--
 **ManojBD/ManojBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
