@@ -19,12 +19,12 @@
 ### Stats
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manchiz)](https://github.com/manchiz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManojBD)](https://github.com/ManojBD/github-readme-stats)
 
 ### Mostly used languages
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manchiz)](https://github.com/manchiz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojBD)](https://github.com/ManojBD/github-readme-stats)
 
 <!--
 **ManojBD/ManojBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
